@@ -1,0 +1,3 @@
+<?php //App%255CController%255CuserController%2523getCredentials
+
+return [PHP_INT_MAX, []];
